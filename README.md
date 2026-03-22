@@ -7,11 +7,11 @@ Este repositório organiza meus estudos em **Estrutura de Dados em Java**, reuni
 ## 📚 Conteúdos
 
 ### 📋 Listas
--  [Lista Encadeada](https://github.com/Thiagneves/structure-data-java/tree/main/Lista/lista-encadeada-em-java)
--  [Lista com Alocação Dinamica](https://github.com/Thiagneves/structure-data-java/tree/main/Lista/listas-com-alocao-dinamica-com-java)
+-  [Lista Encadeada (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/Lista/lista-encadeada-em-java)
+-  [Lista com Alocação Dinamica (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/Lista/listas-com-alocao-dinamica-com-java)
 
 ### 🏃‍♂️ Filas
-- 
+- [Filas (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/fila/fila-Java-IFNMG)
 
 ### 🔁 Recursão
 -  
