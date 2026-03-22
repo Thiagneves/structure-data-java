@@ -5,6 +5,7 @@ Este repositório organiza meus estudos em **Estrutura de Dados em Java**, reuni
 ---
 
 ## 📚 Conteúdos
+- [Aula 0 - Primeiro Programa em Java](https://github.com/Thiagneves/structure-data-java/tree/main/java-Estrutura-de-Dados)
 
 ### 📋 Listas
 -  [Lista Encadeada (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/Lista/lista-encadeada-em-java)
