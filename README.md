@@ -14,10 +14,11 @@ Este repositório organiza meus estudos em **Estrutura de Dados em Java**, reuni
 - [Filas (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/fila/fila-Java-IFNMG)
 
 ### 🔁 Recursão
--  
+-  [Recursao-Java (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/recursao/recursao-Java-Estudos)
+-  [Recursao-Java-Ativ (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/recursao/recursao-Java-Ativ)
 
 ### 🔢 Ordenação
--   
+- [Projeto-Ordenacao-Java (IFNMG)](https://github.com/Thiagneves/structure-data-java/tree/main/ordenacao/Ordenacao-de-Dados-Java-Projeto)
 
 ---
 
