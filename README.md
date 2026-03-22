@@ -37,5 +37,4 @@ Reunir **todo o aprendizado em Estrutura de Dados em Java** em um único local, 
 
 ## 🔗 Links Rápidos
 
-- [Página principal do repositório Dev-Courses](https://github.com/Thiagneves/dev-courses)  
 - [Meu perfil no GitHub](https://github.com/Thiagneves)  
